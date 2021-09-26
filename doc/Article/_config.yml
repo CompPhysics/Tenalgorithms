@@ -8,7 +8,7 @@ latex:
     targetname: book.tex
 
 repository:
-  url                       : https://compphysics.github.io/Tenalgorithms/doc/Article/_build/html/index.html
+  url                       : https://github.com/CompPhysics/Tenalgorithms/doc/Article/_build/html/index.html
 
 html:
   use_repository_button: true

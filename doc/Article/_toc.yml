@@ -1,38 +1,11 @@
 format: jb-book
-root: intro
+root: intro.ipynb
 parts:
-  - caption: About the course
+  - caption: Linear Algebra and Eigenvalue Problems
+    numbered: true
     chapters:
-    - file: schedule
-    - file: teachers
-    - file: textbooks
-  - caption: Review of Statistics with Resampling Techniques and Linear Algebra
+    - file: linalg.ipynb
+  - caption: Monte Carlo, Markov Chains and the Metropolis-Hastings Algorithm
     numbered: true
     chapters:
     - file: statistics.ipynb
-    - file: linalg.ipynb
-  - caption: From Regression to Support Vector Machines
-    numbered: true
-    chapters:
-    - file: chapter1.ipynb
-    - file: chapter2.ipynb
-    - file: chapter3.ipynb
-    - file: chapter4.ipynb
-    - file: chapteroptimization.ipynb
-    - file: chapter5.ipynb
-  - caption: Decision Trees, Ensemble Methods and Boosting
-    numbered: true
-    chapters:
-    - file: chapter6.ipynb
-    - file: chapter7.ipynb  
-  - caption: Dimensionality Reduction
-    numbered: true
-    chapters:
-    - file: chapter8.ipynb
-    - file: Clustering.ipynb
-  - caption: Deep Learning Methods
-    numbered: true
-    chapters:
-    - file: chapter9.ipynb
-    - file: chapter10.ipynb
-
