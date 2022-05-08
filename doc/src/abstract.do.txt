@@ -1,0 +1,30 @@
+
+
+Department of Physics and Astronomy and Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI 48824, USA; Department of Physics and Center for Computing in Science Education, University of Oslo, N-0316 Oslo, Norway
+
+
+
+3) indirizzi elettronici: hjensen@msu.edu; mhjensen@uio.no
+
+
+From linear algebra to machine learning; ten central algorithms for studying quantum mechanical many-particle problems
+
+
+
+Monte Carlo methods, machine learning, eigenvalue problems, optimization, many-body problems, computational quantum mechanics
+
+
+
+Being able to solve and simulate quantum mechanical few and many-body
+problems, lays the foundation for deeper insights about the equations
+of motion and the pertinent forces of our microscopic world, with
+applications to essentially all fields of physics and important
+applications in emerging fields like quantum computing and quantum
+technologies. In this contribution we will present central algorithms
+that are used to solve few- and many-body quantum mechanical problems,
+starting with well-known eigenvalue formulations of quantum mechanical
+problems, before we move on to non-linear methods, stochastic methods
+and finally deep neural networks.  Every example is accompanied by
+numerical implementations in form of Python codes and
+jupyter-notebooks, allowing thereby the reader to get started with own
+research and to reproduce the results that are presented.
