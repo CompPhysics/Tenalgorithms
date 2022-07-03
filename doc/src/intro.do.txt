@@ -1,9 +1,0 @@
-======= Ten Algorithms that shook the World  =======
-
-===== Introduction =====
-
-The aim of this set of lectures is to review some central linear algebra algorithms that we will need in our 
-data analysis part and in the construction of Machine Learning algorithms (ML). 
-This will allow us to introduce some central programming features of high-level languages like Python and 
-compiled languages like C++ and/or Fortran. 
-
